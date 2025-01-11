@@ -34,7 +34,7 @@ public static void main(String[] args) {
 
 // Create an object of the Person class
 
-Person person1 = new Person("keerthana", 17);
+Person person1 = new Person("jothika", 17);
 
 // Access the object's method
 
@@ -42,7 +42,7 @@ person1.displayInfo();
 
 // Create another object of the Person class
 
-Person person2 = new Person("deepthi", 17);
+Person person2 = new Person("dhanu", 17);
 
 // Access the object's method
 
@@ -52,8 +52,8 @@ person2.displayInfo();
 
 OUTPUT:
 
-Name: keerthanaAge: 17
+Name: jothikaAge: 17
 
-Name: deepthi
+Name: dhanu
 
 Age: 17
